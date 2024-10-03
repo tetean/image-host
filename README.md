@@ -1,5 +1,11 @@
 # cartographic_bed
-Provide accelerated access to website(tetean.com) images.
+
+Provide accelerated access to website images.
+
 tools：
-  cdn:jsDelivr
-  picUpload:PicGo
+
+  cdn:jsDelivr；CloudFLare
+  
+  picUpload:PicGo  
+  
+  web：design baseed on Notion
