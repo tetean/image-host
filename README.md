@@ -2,10 +2,10 @@
 
 Provide accelerated access to website images.
 
-tools：
+tools: 
 
-  cdn:jsDelivr；CloudFLare
+  cdn: jsDelivr；CloudFLare
   
-  picUpload:PicGo  
-  
-  web：design baseed on Notion
+  picUpload: PicGo
+
+The ownership of the pictures belongs to me. Infringement will be investigated.
