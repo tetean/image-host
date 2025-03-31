@@ -1,6 +1,6 @@
 # cartographic_bed
 
-Provide accelerated access to website([tetean.com](https://tetean.com)) images, and backups of the images.
+Provide accelerated access to website images and backups of the images.
 
 tools: 
 
