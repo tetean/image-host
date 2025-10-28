@@ -1,4 +1,4 @@
-# cartographic_bed
+# image-host
 
 Provide accelerated access to website images and backups of the images.
 
