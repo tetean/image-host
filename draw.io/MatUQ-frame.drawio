@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.0">
   <diagram name="Page-1" id="hLdN9RuOkmFY-jx8XuCc">
-    <mxGraphModel dx="1693" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="Cv8UoN_Okz747lS2eHtr-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;labelBackgroundColor=none;fillColor=#ED949A;fontColor=#333333;strokeColor=#666666;" value="CrystalFramer" vertex="1">
           <mxGeometry height="18" width="79" x="922" y="98" as="geometry" />
         </mxCell>
-        <mxCell id="Cv8UoN_Okz747lS2eHtr-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=1;" value="">
+        <mxCell id="Cv8UoN_Okz747lS2eHtr-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=1;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="520" y="190.5" as="sourcePoint" />
             <mxPoint x="996" y="190" as="targetPoint" />
@@ -79,19 +79,19 @@
         <mxCell id="Cv8UoN_Okz747lS2eHtr-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;labelBackgroundColor=none;fillColor=#96CCEA;fontColor=#333333;strokeColor=#666666;" value="DimeNet++" vertex="1">
           <mxGeometry height="18" width="62" x="591.15" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="Cv8UoN_Okz747lS2eHtr-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#B3B3B3;" value="">
+        <mxCell id="Cv8UoN_Okz747lS2eHtr-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#B3B3B3;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="521" y="140.5" as="sourcePoint" />
             <mxPoint x="996" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cv8UoN_Okz747lS2eHtr-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=1;" value="">
+        <mxCell id="Cv8UoN_Okz747lS2eHtr-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=1;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="661" y="251.5" as="sourcePoint" />
             <mxPoint x="661" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cv8UoN_Okz747lS2eHtr-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=1;" value="">
+        <mxCell id="Cv8UoN_Okz747lS2eHtr-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=1;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="836" y="251.5" as="sourcePoint" />
             <mxPoint x="836" y="90" as="targetPoint" />
