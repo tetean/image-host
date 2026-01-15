@@ -408,13 +408,13 @@
           <mxGeometry height="30" width="208.49" x="-1877.68" y="-1558" as="geometry" />
         </mxCell>
         <mxCell id="dQ3tJeeBxROogiF2pBiH-25" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b data-sider-select-id=&quot;472a4f83-8acd-415a-954c-25e4097bd5b3&quot;&gt;&lt;font data-sider-select-id=&quot;2f9319e3-8b72-4ff8-ad8a-b8a892861590&quot; face=&quot;Times New Roman&quot;&gt;(C) Graph Transformer&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="135.03" x="-1529.47" y="-980" as="geometry" />
+          <mxGeometry height="30" width="135.03" x="-1530.46" y="-990" as="geometry" />
         </mxCell>
         <mxCell id="GuV99TWIz1NMnrYEIlaK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="378.77" width="506" x="-2186" y="-1368.77" as="geometry" />
         </mxCell>
         <mxCell id="VxqdtVdzdVgu5r6BKbT3-242" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b data-sider-select-id=&quot;472a4f83-8acd-415a-954c-25e4097bd5b3&quot;&gt;&lt;font data-sider-select-id=&quot;2f9319e3-8b72-4ff8-ad8a-b8a892861590&quot; face=&quot;Times New Roman&quot; style=&quot;color: rgb(0, 0, 0);&quot;&gt;(B) Geometry and&amp;nbsp;&lt;span style=&quot;font-size: 11px;&quot;&gt;Chemical Knowledge&lt;/span&gt;-Enhanced Graph Transformer&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="412.13" x="-2131.78" y="-980" as="geometry" />
+          <mxGeometry height="30" width="412.13" x="-2131.77" y="-988.77" as="geometry" />
         </mxCell>
         <mxCell id="dQ3tJeeBxROogiF2pBiH-9" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;points=[[0,0,0,0,0],[0,0,0,0,12.5],[0,0,0,0,25],[0,0,0,10,35],[0,0,0,20,45],[0,0,0,50,0],[0,0,0,70,45],[0,0,0,100,0],[0,0,0,110,10],[0,0,0,120,20],[0,0,0,120,32.5],[0.08,0.22,0,0,0],[1,1,0,0,0]];rotation=-90;flipH=0;flipV=1;direction=south;size=17;fillColor=#67AB9F;" value="" vertex="1">
           <mxGeometry height="79.33" width="23.78" x="-1837.9300000000003" y="-1143.1699999999998" as="geometry" />
