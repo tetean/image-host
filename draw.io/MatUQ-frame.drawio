@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="Page-1" id="hLdN9RuOkmFY-jx8XuCc">
-    <mxGraphModel dx="2177" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3663" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3380,16 +3380,16 @@
         <mxCell id="LFK-LUaXpqXoBiOs9nr8-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f5f5f5, #202020);strokeColor=light-dark(#B3B3B3,#B3B3B3);strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="400" width="400" x="1430.7300000000002" y="10652.859999999999" as="geometry" />
         </mxCell>
-        <mxCell id="LFK-LUaXpqXoBiOs9nr8-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=0;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;[γ&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ν&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, α&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, β&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;]&lt;/font&gt;" vertex="1">
+        <mxCell id="LFK-LUaXpqXoBiOs9nr8-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=0;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;[γ&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ν&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, α&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, β&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;]&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="1490.9500000000003" y="10730" as="geometry" />
         </mxCell>
-        <mxCell id="LFK-LUaXpqXoBiOs9nr8-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=0;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;font style=&quot;&quot;&gt;[γ&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;, ν&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;, α&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;, β&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;]&lt;/font&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="LFK-LUaXpqXoBiOs9nr8-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=0;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;&quot;&gt;[γ&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;, ν&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;, α&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;, β&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;]&lt;/font&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="1490.5900000000004" y="10820.96" as="geometry" />
         </mxCell>
-        <mxCell id="LFK-LUaXpqXoBiOs9nr8-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=0;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;[γ, ν, α, β]&lt;/font&gt;" vertex="1">
+        <mxCell id="LFK-LUaXpqXoBiOs9nr8-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=0;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;[γ, ν, α, β]&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="200" x="1488.0000000000002" y="10920" as="geometry" />
         </mxCell>
-        <mxCell id="LFK-LUaXpqXoBiOs9nr8-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;.&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 17px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;..&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;" vertex="1">
+        <mxCell id="LFK-LUaXpqXoBiOs9nr8-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;.&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;..&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="37.46" width="34.57" x="1692.1000000000004" y="10786.469999999998" as="geometry" />
         </mxCell>
         <mxCell id="LFK-LUaXpqXoBiOs9nr8-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;With MC Dropout&lt;/font&gt;" vertex="1">
