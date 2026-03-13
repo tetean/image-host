@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
   <diagram name="Page-1" id="IRlNghBc4CfcVm1zjChE">
-    <mxGraphModel dx="24080" dy="11800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="12040" dy="5350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
         <mxCell id="I_GlU_ohoZngu2BBbSvk-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 180px;&quot;&gt;Wet Experiment&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="570" width="2060" x="9845" y="5530" as="geometry" />
         </mxCell>
-        <mxCell id="I_GlU_ohoZngu2BBbSvk-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 180px;&quot;&gt;Target Structure&lt;/span&gt;" vertex="1">
+        <mxCell id="I_GlU_ohoZngu2BBbSvk-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;font-size: 180px;&quot;&gt;Structure&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 180px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;with&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 180px;&quot;&gt;Target Property&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="570" width="2060" x="9825" y="6230" as="geometry" />
         </mxCell>
         <mxCell id="I_GlU_ohoZngu2BBbSvk-78" edge="1" parent="1" style="endArrow=classicThin;html=1;rounded=0;strokeWidth=25;endFill=0;shape=flexArrow;endWidth=0;endSize=19.599999999999998;" value="">
