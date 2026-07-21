@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="qpAyAfvemYWibQ67QX42">
-    <mxGraphModel dx="3017" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3830" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,10 +37,10 @@
         <mxCell id="JOOGtIVojj6QtkYhUoWA-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#e3ebf4, #ededed);align=center;verticalAlign=middle;rounded=0;" value="" vertex="1">
           <mxGeometry height="90" width="140" x="-520" y="-120" as="geometry" />
         </mxCell>
-        <mxCell id="JOOGtIVojj6QtkYhUoWA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+        <mxCell id="JOOGtIVojj6QtkYhUoWA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 52px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Existing Material Space&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="580" x="-510" y="-480" as="geometry" />
         </mxCell>
-        <mxCell id="JOOGtIVojj6QtkYhUoWA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
+        <mxCell id="JOOGtIVojj6QtkYhUoWA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;font style=&quot;font-size: 54px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Hierarchical Material Novelty&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="707.5" x="232.5" y="-480" as="geometry" />
         </mxCell>
         <mxCell id="JOOGtIVojj6QtkYhUoWA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="" vertex="1">
@@ -183,6 +183,15 @@
         </mxCell>
         <mxCell id="JOOGtIVojj6QtkYhUoWA-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#e3e3e3, #ededed);" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Labeled&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;Set&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="150" x="1430" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="JOOGtIVojj6QtkYhUoWA-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c7e6d6, #ededed);strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="197" width="280" x="630" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="JOOGtIVojj6QtkYhUoWA-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c7e6d6, #ededed);strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="140.93" width="290.91" x="639.09" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JOOGtIVojj6QtkYhUoWA-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c7e6d6, #ededed);strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="70.47" width="270.91" x="260" y="319.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
