@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Crystal Dataset Pipeline" id="crystal-pipeline">
-    <mxGraphModel dx="2044" dy="1128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1672" pageHeight="941" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1672" pageHeight="941" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="layer1" parent="0" value="1 - Crystal dataset" />
@@ -18889,8 +18889,8 @@
             <mxPoint x="574" y="2275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oS3Ncv8D0Nsqki0t_jHl-819" parent="oS3Ncv8D0Nsqki0t_jHl-710" style="text;html=1;whiteSpace=wrap;overflow=hidden;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12.704057896097183;fontColor=#081638;fontStyle=1;spacing=0;strokeColor=none;fillColor=none;" value="&lt;div style=&quot;font-family:Times New Roman;line-height:1.12;white-space:nowrap&quot;&gt;FUSION&lt;/div&gt;" vertex="1">
-          <mxGeometry height="28" width="52" x="628" y="2169" as="geometry" />
+        <mxCell id="oS3Ncv8D0Nsqki0t_jHl-819" parent="oS3Ncv8D0Nsqki0t_jHl-710" style="text;html=1;whiteSpace=wrap;overflow=hidden;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12.704057896097183;fontColor=#081638;fontStyle=1;spacing=0;strokeColor=none;fillColor=none;" value="&lt;div style=&quot;font-family:Times New Roman;line-height:1.12;white-space:nowrap&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;FUSION&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="28" width="72" x="628" y="2169" as="geometry" />
         </mxCell>
         <mxCell id="oS3Ncv8D0Nsqki0t_jHl-820" parent="oS3Ncv8D0Nsqki0t_jHl-710" style="shape=stencil(lZFBEoMgDEVPw97Kpnur94ia1owIDqC2ty9MqEUXnenu/58XSEDIyg0woygLDRMKeRNl2SyOjA4ipBtHl6JgP5w8uBk7z+EKlqBVyBXnrRlxo96nHtIDWvKxKmshqxa68WHNonv2M0QyqsmscaIn96WbXrlrGFSkM3AfKqH/sNcf7JH8dCa0U8bh7oL4rhHMece7sXjwpBQ/VH7EmQoR/5Ks3w==);fillColor=#d5d2f6;strokeColor=#3e4a87;strokeWidth=1.4;" value="" vertex="1">
           <mxGeometry height="149" width="27" x="642" y="2203" as="geometry" />
